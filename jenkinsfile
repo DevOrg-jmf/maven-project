@@ -1,1 +1,1 @@
-def 'external.load 'pom.xml'
+def externalMethod = load("pom.xml")
